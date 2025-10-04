@@ -1,4 +1,6 @@
-package com.numbers;// Java program to find numbers are dividable by 3
+// Java program to find numbers are dividable by 3
+
+package com.numbers;
 
 import java.util.ArrayList;
 import java.util.List;
